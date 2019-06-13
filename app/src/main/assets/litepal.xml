@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="weather_everyday"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.lvjin.weathereveryday.db.Province"/>
+        <mapping class="com.example.lvjin.weathereveryday.db.City"/>
+        <mapping class="com.example.lvjin.weathereveryday.db.County"/>
+    </list>
+</litepal>
